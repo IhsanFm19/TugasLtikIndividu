@@ -11,3 +11,8 @@ def VolumeTabung (r,t):
     print(phi*r**2*t)
 
 VolumeTabung(radius,tinggi)
+
+def LuasAlas (r):
+    print(phi*r**2)
+
+LuasAlas(radius)
